@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/wangtong8678/test/_apis/build/status/wangT-ong.pipelines-java?branchName=main)](https://dev.azure.com/wangtong8678/test/_build/latest?definitionId=6&branchName=main)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
