@@ -11,6 +11,7 @@ parameters:
   - windows-latest
   - ubuntu-latest
   - macOS-latest
+  - windows-2022
 
 trigger: none
 
